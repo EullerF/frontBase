@@ -13,8 +13,8 @@ Este projeto fornece a estrutura inicial para um sistema com telas de **Login** 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-repositorio.git
-   cd nome-do-projeto
+   git clone https://github.com/EullerF/frontBase.git
+   cd frontBase
 
 2. Instale as dependências:
    ```sh
